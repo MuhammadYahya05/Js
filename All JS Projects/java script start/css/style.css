@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* color changing box start */
+
+/* div#box{
+    width: 350px;
+    height: 300px;
+    margin:80px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: burlywood;
+}
+
+
+div#box > input{
+    width: 200px;
+    height: 29px;
+    text-align: center;
+    border-radius: 35px;
+    outline: none;
+    border: none;
+    margin-top: 50px;
+} */
+
+/* color changing box end */
+
+
+
+/* whole body color change start */
+
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#colorInput{
+    font-size: 16px;
+    padding: 10px;
+}
+
+#message{
+    margin-top: 20px;
+    font-size: 20px;
+} */
+
+/* whole body color change end */
+
+
+/* scroll to change color start */
+/* h1{
+    color: rgb(13, 150, 150);
+    text-align: center;
+    background-color: black;
+    font-size: 35px;
+}
+
+.content{
+    padding: 30px;
+}
+
+p{
+    text-align: justify;
+    position: relative;
+    top: 30px;
+} */
+/* scroll to change color end */
